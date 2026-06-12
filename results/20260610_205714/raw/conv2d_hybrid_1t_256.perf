@@ -1,0 +1,8 @@
+# started on Wed Jun 10 21:44:30 2026
+
+7971985;;cycles;0.13%;6003710;100.00;;
+3938696;;instructions;0.09%;6003710;100.00;0.49;insn per cycle
+1578339;;cache-references;0.08%;6003710;100.00;;
+20488;;cache-misses;0.46%;6003710;100.00;1.30;of all cache refs
+450239;;branch-instructions;0.10%;6003710;100.00;;
+25109;;branch-misses;0.27%;6003710;100.00;5.58;of all branches
